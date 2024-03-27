@@ -1,0 +1,19 @@
+{
+  "name": "tb11-atm-assignment",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This is an ATM project",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
